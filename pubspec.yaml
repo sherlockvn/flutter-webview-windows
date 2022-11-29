@@ -1,8 +1,8 @@
-name: webview_windows
-description: A WebView2-powered webview implementation for the Windows platform.
+name: html_editor_windows
+description: A Html editor build on windows platform empowered by WebView2 library
 version: 0.2.2
-repository: https://github.com/jnschulze/flutter-webview-windows
-homepage: https://jns.io
+repository: https://github.com/sherlockvn/flutter-webview-windows
+homepage: https://github.com/sherlockvn
 
 environment:
   sdk: ">=2.13.0 <3.0.0"
