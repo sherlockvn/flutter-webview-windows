@@ -586,7 +586,7 @@ class Webview extends StatefulWidget {
       this.height,
       this.permissionRequested,
       this.scaleFactor,
-      this.filterQuality = FilterQuality.none});
+      this.filterQuality = FilterQuality.medium});
 
   @override
   _WebviewState createState() => _WebviewState();

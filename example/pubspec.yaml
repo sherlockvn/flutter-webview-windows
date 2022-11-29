@@ -10,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
+  universal_html: ^2.0.8
   webview_windows:
     path: ../
   window_manager: ^0.2.7
